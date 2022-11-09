@@ -1,7 +1,7 @@
 # Degoogling a Nokia 6300 4G
 ## Documenting attempts to degoogle KaiOS on a Nokia 6300 4G
 
-- [ ] Enter debug mode - https://ivan-hc.github.io/bananahackers/Nokia%208000%204G%20%20Nokia%206300%204G%202020.html
+- [ ] Enter debug mode - https://wiki.bananahackers.net/devices
     >*#*#33284#*#*
     
  **Use Temporary Root.** Per BananaHackers,
@@ -27,7 +27,8 @@ If the necessary partition is read only try
 ```
 
 Nokia 6300 4G - https://www.nokia.com/phones/en_us/nokia-6300-4g?sku=16LIOW11A01
-BananaHackers debug mode - 
+BananaHackers debug mode - https://wiki.bananahackers.net/devices
+BananaHackers EDL tools - https://wiki.bananahackers.net/development/edl
 
 
 
