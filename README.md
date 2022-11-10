@@ -1,5 +1,5 @@
 # Degoogling a Nokia 6300 4G
-## Documenting attempts to degoogle KaiOS on a Nokia 6300 4G
+## Documenting attempts to increase KaiOS privacy on a Nokia 6300 4G
 
 - [ ] Enter debug mode - https://wiki.bananahackers.net/devices
     >*#*#33284#*#*
@@ -19,6 +19,14 @@
 
 ## Notes and Reference
 
+This process only works on non-US versions. **Use information below at your own risk.**
+TA-1286 - I think this one works but cannot verify.
+TA-1287 - I think this one works but cannot verify.
+TA-1291 - I think this one works but cannot verify.
+TA-1294 - I think this one works but cannot verify.
+TA-1307 - Not sure...
+TA-1324 - DOES NOT WORK!
+
 If the necessary partition is read only try
 ```
   adb shell
@@ -29,7 +37,7 @@ If the necessary partition is read only try
 Nokia 6300 4G - https://www.nokia.com/phones/en_us/nokia-6300-4g?sku=16LIOW11A01
 BananaHackers debug mode - https://wiki.bananahackers.net/devices
 BananaHackers EDL tools - https://wiki.bananahackers.net/development/edl
-
+BananaHackers EDL downloads - https://edl.bananahackers.net/
 
 
 Device
