@@ -14,7 +14,7 @@
 - [ ] Remove programs with ADB?
     Need to list all google, facebook,whatsapp, etc. files here
 - [ ] IPtables to block tracking domains?
-
+Does manifest.webapp contain anything useful for removing unwanted code?
 
 
 ## Notes and Reference
@@ -39,8 +39,21 @@ BananaHackers debug mode - https://wiki.bananahackers.net/devices
 BananaHackers EDL tools - https://wiki.bananahackers.net/development/edl
 BananaHackers EDL downloads - https://edl.bananahackers.net/
 
+https://developer.kaiostech.com/docs/getting-started/main-concepts/manifest/
+https://developer.kaiostech.com/docs/getting-started/main-concepts/permissions/
+
 
 Device
     Developer
         Debugger
             ADB and DevTools 
+
+Hostile programs
+Kaiads
+Whatsapp
+Facebook
+Google
+
+Directory           Permissions
+/system/etc         ?
+
