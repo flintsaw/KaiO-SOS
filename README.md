@@ -20,12 +20,12 @@ Does manifest.webapp contain anything useful for removing unwanted code?
 ## Notes and Reference
 
 This process only works on non-US versions. **Use information below at your own risk.**
-:heavy_check_mark: TA-1286 - I think this one works but cannot verify.;
-:heavy_check_mark: TA-1287 - I think this one works but cannot verify.;
-:heavy_check_mark: TA-1291 - I think this one works but cannot verify.;
-:heavy_check_mark: TA-1294 - I think this one works but cannot verify.;
-"question: TA-1307 - Not sure...;
-:x: TA-1324 - DOES NOT WORK!;
+:heavy_check_mark: TA-1286 - I think this one works but cannot verify. <br />
+:heavy_check_mark: TA-1287 - I think this one works but cannot verify. <br />
+:heavy_check_mark: TA-1291 - I think this one works but cannot verify. <br />
+:heavy_check_mark: TA-1294 - I think this one works but cannot verify. <br />
+"question: TA-1307 - Not sure... <br />
+:x: TA-1324 - DOES NOT WORK! <br />
 
 If the necessary partition is read only try
 ```
