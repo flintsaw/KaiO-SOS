@@ -1,5 +1,4 @@
-# Degoogling a Nokia 6300 4G
-## Documenting attempts to increase KaiOS privacy on a Nokia 6300 4G
+# Documenting attempts to increase KaiOS privacy on a Nokia 6300 4G
 
 - [ ] Enter debug mode - https://wiki.bananahackers.net/devices
     >*#*#33284#*#*
