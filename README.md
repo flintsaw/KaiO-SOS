@@ -12,7 +12,8 @@
 - [ ] Use Wallace-Lite to get Temporary Root
 - [ ] Pull existing webapps.json file
     >adb pull adb pull data/local/webapps/webapps.json
-- [ ] Edit the programs you want to remove from 
+- [ ] For every app you want to remove, change the "removable": false value to true.
+- [ ] 
 
 
 
@@ -52,6 +53,17 @@ This process only works on non-US versions. **Use at your own risk.** <br />
     Need to list all google, facebook,whatsapp, etc. files here
 - [ ] IPtables to block tracking domains?
 Does manifest.webapp contain anything useful for removing unwanted code?
+
+##Apps worth adding/replacing https://store.bananahackers.net/ <br />
+Wallace Toolbox <br />
+AppBuster <br />
+FastContact <br />
+FastLog <br />
+KaiAuth <br />
+RSS Reader by N4NO <br />
+Store Client <br />
+Users Weather <br />
+
 
 
 ## Notes and Reference
