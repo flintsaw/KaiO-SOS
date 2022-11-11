@@ -85,6 +85,7 @@ Kaptein Sideload Guide - https://kaptein.me/blog/sideloading-and-deploying-apps-
 Keptein Webapp Conversion Guide - https://kaptein.me/blog/porting-converting-web-apps-website-to-kai-os/ <br />
 App Buster - https://github.com/minhduc-bui1/AppBuster <br />
 Luxferre's CrossTweak - https://gitlab.com/suborg/crosstweak <br />
+If you can't sideload a particular app - https://www.reddit.com/r/KaiOS/comments/ugg97c/any_way_to_remove_bloatware_on_nokia_6300_4g/ <br />
 
 https://developer.kaiostech.com/docs/getting-started/main-concepts/manifest/
 https://developer.kaiostech.com/docs/getting-started/main-concepts/permissions/
