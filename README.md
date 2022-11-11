@@ -19,7 +19,7 @@ Does manifest.webapp contain anything useful for removing unwanted code?
 
 ## Notes and Reference
 
-This process only works on non-US versions. **Use information below at your own risk.**
+This process only works on non-US versions. **Use information below at your own risk.** <br />
 :heavy_check_mark: TA-1286 - I think this one works but cannot verify. <br />
 :heavy_check_mark: TA-1287 - I think this one works but cannot verify. <br />
 :heavy_check_mark: TA-1291 - I think this one works but cannot verify. <br />
@@ -43,10 +43,10 @@ https://developer.kaiostech.com/docs/getting-started/main-concepts/manifest/
 https://developer.kaiostech.com/docs/getting-started/main-concepts/permissions/
 
 
-Device
-    Developer
-        Debugger
-            ADB and DevTools 
+Device <br />
+    Developer <br />
+        Debugger <br />
+            ADB and DevTools <br /> 
 
 Hostile programs
 Kaiads
