@@ -33,10 +33,11 @@ If the necessary partition is read only try
   mount -o remount,rw /system
 ```
 
-Nokia 6300 4G - https://www.nokia.com/phones/en_us/nokia-6300-4g?sku=16LIOW11A01
-BananaHackers debug mode - https://wiki.bananahackers.net/devices
-BananaHackers EDL tools - https://wiki.bananahackers.net/development/edl
-BananaHackers EDL downloads - https://edl.bananahackers.net/
+Nokia 6300 4G - https://www.nokia.com/phones/en_us/nokia-6300-4g?sku=16LIOW11A01 <br />
+BananaHackers debug mode - https://wiki.bananahackers.net/devices <br />
+BananaHackers EDL tools - https://wiki.bananahackers.net/development/edl <br />
+BananaHackers EDL downloads - https://edl.bananahackers.net/ <br />
+Firefox Browser Toolbox - https://firefox-source-docs.mozilla.org/devtools-user/browser_toolbox/index.html <br />
 
 https://developer.kaiostech.com/docs/getting-started/main-concepts/manifest/
 https://developer.kaiostech.com/docs/getting-started/main-concepts/permissions/
